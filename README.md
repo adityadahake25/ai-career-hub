@@ -35,6 +35,13 @@ The application uses Next.js App Router for routing, React for the user interfac
 
 Job information and submitted applications are stored in related database tables, allowing application records to be displayed alongside their corresponding job details.
 
+
+
+## 🚧 Project Status
+
+Currently in development, with new features and improvements being added continuously.
+
+
 ## ✨ Features
 
 - **Job Listings:** Display job opportunities with details such as title, company, location, salary, experience, and description.
@@ -164,9 +171,3 @@ ai-career-hub/
 ├── prisma.config.ts
 ├── tsconfig.json
 └── README.md
-
----
-
-## 🚧 Project Status
-
-Currently in development, with new features and improvements being added continuously.
