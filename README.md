@@ -164,3 +164,9 @@ ai-career-hub/
 ├── prisma.config.ts
 ├── tsconfig.json
 └── README.md
+
+---
+
+## 🚧 Project Status
+
+Currently in development, with new features and improvements being added continuously.
